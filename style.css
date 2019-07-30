@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Metal+Mania&display=swap');
+body {
+    margin: 0;
+    padding-top: 10px;
+    background: linear-gradient(115.8221404393721deg, rgba(0, 2, 0,1) 5.736111111111111%,rgba(152, 39, 9,1) 86.10416666666666%);
+    font-family: 'Metal Mania', cursive;
+}
+
+
+.pennywise {
+    background: url('img/tumblr_1c58041d1f0dfdfb896e56fed8a69e4d_9cca7391_400.gif')no-repeat;
+    color: white;
+    font-size: 30vw;
+    text-align: center;
+    margin-top: 270px;
+    margin-left: 300px;
+    background-size: cover;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+.quote {
+    color: white;
+    margin-top: 250px;
+    margin-left: 200px;
+    font-size: 40px;
+}
