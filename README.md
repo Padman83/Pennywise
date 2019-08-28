@@ -11,5 +11,5 @@ Pennywise The Dancing Clown Wallpaper.
 
 ## Contact 
 
-Project Link: [https://github.com/Padman83/Pennywise] (https://github.com/Padman83/Pennywise)
+Project Link: [https://github.com/Padman83/Pennywise]
 
